@@ -4,6 +4,7 @@
         sans-serif;
 }
 
+/* Button section  */
 .btn-primary {
     color: #FFFFFF;
     font-weight: 700;
@@ -94,7 +95,7 @@ li {
 }
 
 .skill-description {
-    color: #f60707;
+    color: #ff0505;
 }
 
 .PlanMid {
@@ -129,7 +130,7 @@ li {
 .contact {
     display: flex;
     gap: 100px;
-    background: #c0b2a8;
+    background: #e0d3cb;
     padding: 130px 200px;
 }
 
@@ -158,6 +159,6 @@ footer p a {
 
 
 input::placeholder {
-    color: #1c87c9;
+    color: #680bf3;
     opacity: 1;
 }
