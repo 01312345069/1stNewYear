@@ -15,6 +15,17 @@
     background: #FD6E0A;
 }
 
+.btn-primary2 {
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFFFFF;
+}
+
 .paragraph-color {
     color: rgb(8, 132, 241);
 }
@@ -143,4 +154,10 @@ footer {
 
 footer p a {
     text-decoration: none;
+}
+
+
+input::placeholder {
+    color: #1c87c9;
+    opacity: 1;
 }
